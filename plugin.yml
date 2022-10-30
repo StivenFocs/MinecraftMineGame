@@ -1,0 +1,8 @@
+name: GameCore
+version: 1.0
+main: cloud.stivenfocs.TewfaPrisonCore.Loader
+authors: [StivenFocs]
+commands:
+    prisoncore:
+        aliases: [core]
+    spawn:
